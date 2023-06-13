@@ -1,0 +1,10 @@
+* studio-client
+
+A common lisp client library for the Studio image gallery hosting software.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/studio-client.git   |
+| commit  | 2e96285  |
+| systems | studio-client |
+|---------+-------------------------------------------|
+
