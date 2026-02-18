@@ -4,6 +4,6 @@ A common lisp client library for the Studio image gallery hosting software.
 
 |---------+---------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/studio-client.git |
-| commit  | b77a1ed                                           |
+| commit  | 0000000                                           |
 | systems | studio-client                                     |
 |---------+---------------------------------------------------|
